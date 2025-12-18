@@ -1,4 +1,6 @@
-let array = [10, 5, 8, 20, 2]
+//find secondlargest number in array 
+
+let array = [1, 4, 55, 77]
 
 function findSecondLargest(array){
     let largest = array[0]
